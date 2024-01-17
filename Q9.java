@@ -48,7 +48,7 @@ class Solution29 {
 
 };
 
-public class Q29 {
+public class Q9 {
     public static void main(String[] args) {
         int arr[] = { 15, 10, 19, 10, 5, 18, 7 };
         System.out.println(Solution29.findPages(arr, 7, 5));

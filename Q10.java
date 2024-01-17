@@ -52,7 +52,7 @@ class Solution30 {
     }
 }
 
-public class Q30 {
+public class Q10 {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
         System.out.println(Solution30.minTime(arr, arr.length, 3));

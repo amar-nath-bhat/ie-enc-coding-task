@@ -28,7 +28,7 @@ class Solution24 {
     }
 }
 
-public class Q24 {
+public class Q4 {
     public static void main(String[] args) {
         int A[] = { 3, 3, 3 };
         int B[] = { 3, 3, 3 };

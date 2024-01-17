@@ -28,7 +28,7 @@ class Solution26 {
     }
 }
 
-public class Q26 {
+public class Q6 {
     public static void main(String[] args) {
         Solution26 s = new Solution26();
         int arr[] = { -469, -8, -358, -278, -214, -436, 400, -313 };

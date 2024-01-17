@@ -42,7 +42,7 @@ class Solution27 {
     }
 }
 
-public class Q27 {
+public class Q7 {
     public static void main(String[] args) {
         Solution27 s = new Solution27();
         int a[] = { -1, -2, -3 };

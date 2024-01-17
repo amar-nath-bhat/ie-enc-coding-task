@@ -24,7 +24,7 @@ class Solution25 {
     }
 }
 
-public class Q25 {
+public class Q5 {
     public static void main(String[] args) {
         System.out.println(Solution25.factorial(12));
     }
